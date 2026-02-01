@@ -69,9 +69,17 @@ readable, and maintainable code.
 
 <h2>GitHub Analytics</h2>
 
+<h2>GitHub Analytics</h2>
+
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=akashshekhawat18&show_icons=true&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashshekhawat18&layout=compact&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AkashShekhawat18&show_icons=true&theme=default&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkashShekhawat18&layout=compact&theme=default&hide_border=true"
+    height="160"
+  />
 </p>
 
 ---
