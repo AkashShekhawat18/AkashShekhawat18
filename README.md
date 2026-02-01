@@ -90,8 +90,8 @@ readable, and maintainable code.
 <h2>Contact</h2>
 
 <p>
-LinkedIn: your-link-here<br>
-Email: optional
+LinkedIn: (https://www.linkedin.com/in/akash-shekhawat48m/)<br>
+Email: akashsingh48m@gmail.com
 </p>
 
 <hr>
