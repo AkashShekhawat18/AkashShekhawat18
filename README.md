@@ -70,8 +70,8 @@ readable, and maintainable code.
 <h2>GitHub Analytics</h2>
 
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akashshekhawat18&show_icons=true&hide_border=true" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashshekhawat18&layout=compact&hide_border=true" height="160"/>
 </p>
 
 ---
